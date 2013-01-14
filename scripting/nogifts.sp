@@ -1,4 +1,3 @@
-#include <sourcemod>
 #include <sdktools>
 #include <sdkhooks>
 #define PLUGIN_NAME    "No gifts"
